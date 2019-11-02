@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" fixedFrame="YES" image="TwitterLogoBlue" translatesAutoresizingMaskIntoConstraints="NO" id="HuL-Fv-B22">
-                                <rect key="frame" x="51" y="177" width="272" height="282"/>
+                                <rect key="frame" x="34" y="176" width="307" height="314"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
