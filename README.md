@@ -1,6 +1,6 @@
-# Project 3 - *Twitter_ios_starter*
+# Project 3 - *Twitter - Part I*
 
-**Twitter_ios_starter** is a basic twitter app to read your tweets.
+This is a basic twitter app to read your tweets.
 
 Time spent: **5** hours spent in total
 
